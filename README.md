@@ -18,7 +18,7 @@ Neural Architecture Search (NAS)  papers with code
 | [Understanding Architectures Learnt by Cell-based Neural Architecture Search](https://openreview.net/pdf?id=H1gDNyrKDS) | ICLR2020 |- | Gradient | [PyTorch](https://github.com/automl/RobustDARTS) |
 | [AtomNAS: Fine-Grained End-to-End Neural Architecture Search](https://openreview.net/forum?id=BylQSxHFwr) | ICLR2020 | - |- | [PyTorch](https://github.com/meijieru/AtomNAS) |
 | [Fast Neural Network Adaptation via Parameter Remapping and Architecture Search](https://openreview.net/forum?id=rklTmyBKPH) | ICLR2020 | - |- | [PyTorch](https://github.com/JaminFong/FNA) |
-| [Once for All: Train One Network and Specialize it for Efficient Deployment](https://openreview.net/forum?id=HylxE1HKwS) | ICLR2020 |-|- | Gradient | [GitHub](https://github.com/mit-han-lab/once-for-all) |
+| [Once for All: Train One Network and Specialize it for Efficient Deployment](https://openreview.net/forum?id=HylxE1HKwS) | ICLR2020 |-| Gradient | [GitHub](https://github.com/mit-han-lab/once-for-all) |
 | PC-DARTS: Partial Channel Connections for Memory-Efficient Architecture Search | ICLR |-| Gradient | [PyTorch](https://github.com/yuhuixu1993/PC-DARTS) |
 | [NAS evaluation is frustratingly hard](https://arxiv.org/abs/1912.12522) | ICLR2020 | - |- | [GitHub](https://github.com/antoyang/NAS-Benchmark) |
 | [FasterSeg: Searching for Faster Real-time Semantic Segmentation](https://openreview.net/pdf?id=BJgqQ6NYvB) | ICLR2020 |-| G | [Pytorch](https://github.com/TAMU-VITA/FasterSeg) |
@@ -29,7 +29,7 @@ Neural Architecture Search (NAS)  papers with code
 | [AutoGAN: Neural Architecture Search for Generative Adversarial Networks](https://arxiv.org/pdf/1908.03835.pdf) | ICCV2019 |-| RL | [github](https://github.com/TAMU-VITA/AutoGAN) |
 | [Discovering Neural Wirings](https://arxiv.org/pdf/1906.00586.pdf) | NeurIPS2019 |- | Gradient | [Github](https://github.com/allenai/dnw) |
 | [Towards modular and programmable architecture search](https://arxiv.org/abs/1909.13404) | NeurIPS2019 |- | [Other](https://github.com/D-X-Y/Awesome-NAS/issues/10) | [Github](https://github.com/negrinho/deep_architect) |
-| [Deep Active Learning with a Neural Architecture Search](https://arxiv.org/pdf/1811.07579.pdf) | NeurIPS2019 | - |[Keras](https://github.com/anonygit32/active_inas) |
+| [Deep Active Learning with a Neural Architecture Search](https://arxiv.org/pdf/1811.07579.pdf) | NeurIPS2019 | - | - |[Keras](https://github.com/anonygit32/active_inas) |
 | [Efficient Forward Architecture Search ](https://arxiv.org/abs/1905.13360) | NeurIPS2019 | - |Gradient | [Github](https://github.com/microsoft/petridishnn) |
 | [DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055) | ICLR2019 |- | Gradient | [github](https://github.com/quark0/darts) |
 | [ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware](https://openreview.net/pdf?id=HylVB3AqYm) | ICLR2019 | - |RL/Gradient | [github](https://github.com/MIT-HAN-LAB/ProxylessNAS) |
