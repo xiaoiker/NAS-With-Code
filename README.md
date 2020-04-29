@@ -22,7 +22,6 @@ Neural Architecture Search (NAS)  papers with code
 | PC-DARTS: Partial Channel Connections for Memory-Efficient Architecture Search | ICLR | G | [GitHub](https://github.com/yuhuixu1993/PC-DARTS) |
 | [NAS evaluation is frustratingly hard](https://arxiv.org/abs/1912.12522) | ICLR | - | [GitHub](https://github.com/antoyang/NAS-Benchmark) |
 | [FasterSeg: Searching for Faster Real-time Semantic Segmentation](https://openreview.net/pdf?id=BJgqQ6NYvB) | ICLR | G | [GitHub](https://github.com/TAMU-VITA/FasterSeg) |
-
 | [Continual and Multi-Task Architecture Search](https://www.aclweb.org/anthology/P19-1185.pdf) | ACL2019 |-|RL | [PyTorch](https://github.com/ramakanth-pasunuru/CAS-MAS) |
 | Searching for MobileNetV3 | ICCV | MobileNet| EA | [PyTorch](https://github.com/kuan-wang/pytorch-mobilenet-v3) |
 | [One-Shot Neural Architecture Search via Self-Evaluated Template Network](https://arxiv.org/abs/1910.05733) | ICCV2019 |-| Gradient | [PyTorch](https://github.com/D-X-Y/NAS-Projects) |
