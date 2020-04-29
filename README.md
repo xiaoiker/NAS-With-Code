@@ -27,7 +27,7 @@ Neural Architecture Search (NAS)  papers with code
 | [One-Shot Neural Architecture Search via Self-Evaluated Template Network](https://arxiv.org/abs/1910.05733) | ICCV2019 |-| Gradient | [PyTorch](https://github.com/D-X-Y/NAS-Projects) |
 | [Evolving Space-Time Neural Architectures for Videos](https://arxiv.org/abs/1811.10636) | ICCV2019 |-| EA | [Tensorflow](https://sites.google.com/view/evanet-video) |
 | [AutoGAN: Neural Architecture Search for Generative Adversarial Networks](https://arxiv.org/pdf/1908.03835.pdf) | ICCV2019 |-| RL | [github](https://github.com/TAMU-VITA/AutoGAN) |
-| [Discovering Neural Wirings](https://arxiv.org/pdf/1906.00586.pdf) | NeurIPS2019 |- | Gradient | [Github](https://github.com/allenai/dnw) |
+| [Discovering Neural Wirings](https://arxiv.org/pdf/1906.00586.pdf) | NeurIPS2019 |GAN | Gradient | [Github](https://github.com/allenai/dnw) |
 | [Towards modular and programmable architecture search](https://arxiv.org/abs/1909.13404) | NeurIPS2019 |- | [Other](https://github.com/D-X-Y/Awesome-NAS/issues/10) | [Github](https://github.com/negrinho/deep_architect) |
 | [Deep Active Learning with a Neural Architecture Search](https://arxiv.org/pdf/1811.07579.pdf) | NeurIPS2019 | - | - |[Keras](https://github.com/anonygit32/active_inas) |
 | [Efficient Forward Architecture Search ](https://arxiv.org/abs/1905.13360) | NeurIPS2019 | - |Gradient | [Github](https://github.com/microsoft/petridishnn) |
