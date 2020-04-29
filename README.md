@@ -14,13 +14,13 @@ Neural Architecture Search (NAS)  papers with code
 | [Overcoming Multi-Model Forgetting in One-Shot NAS with Diversity Maximization](https://www.xiaojun.ai/papers/cvpr-2020-zhang.pdf) | CVPR |-| G | [PyTorch](https://github.com/MiaoZhang0525/NSAS_FOR_CVPR) |
 | [Densely Connected Search Space for More Flexible Neural Architecture Search](https://arxiv.org/abs/1906.09607) | CVPR2020 |DenseNet| Gradient | [PyTorch](https://github.com/JaminFong/DenseNAS) |
 | [EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/abs/1911.09070) | CVPR2020 | CNN| RL | [Tensorflow](https://github.com/google/automl/tree/master/efficientdet) |
-| [NAS-BENCH-201: Extending the Scope of Reproducible Neural Architecture Search](https://openreview.net/forum?id=HJxyZkBKDr) | ICLR2020 | - | [PyTorch](https://github.com/D-X-Y/AutoDL-Projects) |
-| [Understanding Architectures Learnt by Cell-based Neural Architecture Search](https://openreview.net/pdf?id=H1gDNyrKDS) | ICLR2020 | Gradient | [PyTorch](https://github.com/automl/RobustDARTS) |
-| [AtomNAS: Fine-Grained End-to-End Neural Architecture Search](https://openreview.net/forum?id=BylQSxHFwr) | ICLR2020 | | [PyTorch](https://github.com/meijieru/AtomNAS) |
-| [Fast Neural Network Adaptation via Parameter Remapping and Architecture Search](https://openreview.net/forum?id=rklTmyBKPH) | ICLR2020 | - | [PyTorch](https://github.com/JaminFong/FNA) |
-| [Once for All: Train One Network and Specialize it for Efficient Deployment](https://openreview.net/forum?id=HylxE1HKwS) | ICLR2020 |-| Gradient | [GitHub](https://github.com/mit-han-lab/once-for-all) |
+| [NAS-BENCH-201: Extending the Scope of Reproducible Neural Architecture Search](https://openreview.net/forum?id=HJxyZkBKDr) | ICLR2020 | - | - |[PyTorch](https://github.com/D-X-Y/AutoDL-Projects) |
+| [Understanding Architectures Learnt by Cell-based Neural Architecture Search](https://openreview.net/pdf?id=H1gDNyrKDS) | ICLR2020 |- | Gradient | [PyTorch](https://github.com/automl/RobustDARTS) |
+| [AtomNAS: Fine-Grained End-to-End Neural Architecture Search](https://openreview.net/forum?id=BylQSxHFwr) | ICLR2020 | - |- | [PyTorch](https://github.com/meijieru/AtomNAS) |
+| [Fast Neural Network Adaptation via Parameter Remapping and Architecture Search](https://openreview.net/forum?id=rklTmyBKPH) | ICLR2020 | - |- | [PyTorch](https://github.com/JaminFong/FNA) |
+| [Once for All: Train One Network and Specialize it for Efficient Deployment](https://openreview.net/forum?id=HylxE1HKwS) | ICLR2020 |-|- | Gradient | [GitHub](https://github.com/mit-han-lab/once-for-all) |
 | PC-DARTS: Partial Channel Connections for Memory-Efficient Architecture Search | ICLR |-| Gradient | [PyTorch](https://github.com/yuhuixu1993/PC-DARTS) |
-| [NAS evaluation is frustratingly hard](https://arxiv.org/abs/1912.12522) | ICLR2020 | - | [GitHub](https://github.com/antoyang/NAS-Benchmark) |
+| [NAS evaluation is frustratingly hard](https://arxiv.org/abs/1912.12522) | ICLR2020 | - |- | [GitHub](https://github.com/antoyang/NAS-Benchmark) |
 | [FasterSeg: Searching for Faster Real-time Semantic Segmentation](https://openreview.net/pdf?id=BJgqQ6NYvB) | ICLR2020 |-| G | [Pytorch](https://github.com/TAMU-VITA/FasterSeg) |
 | [Continual and Multi-Task Architecture Search](https://www.aclweb.org/anthology/P19-1185.pdf) | ACL2019 |-|RL | [PyTorch](https://github.com/ramakanth-pasunuru/CAS-MAS) |
 | Searching for MobileNetV3 | ICCV | MobileNet| EA | [PyTorch](https://github.com/kuan-wang/pytorch-mobilenet-v3) |
@@ -38,6 +38,6 @@ Neural Architecture Search (NAS)  papers with code
 | [NAS-Bench-101: Towards Reproducible Neural Architecture Search](https://arxiv.org/abs/1902.09635) | ICML2018 | - |Other | [Github](https://github.com/google-research/nasbench) |
 [Efficient Neural Architecture Search via Parameter Sharing](http://proceedings.mlr.press/v80/pham18a.html) | ICML2018 |- |RL | [github](https://github.com/melodyguan/enas) |
 | [Path-Level Network Transformation for Efficient Architecture Search](https://arxiv.org/abs/1806.02639) | ICML2018 | - |RL | [github](https://github.com/han-cai/PathLevel-EAS) |
-| [SMASH: One-Shot Model Architecture Search through HyperNetworks](https://arxiv.org/pdf/1708.05344.pdf) | ICLR2018 | G | [github](https://github.com/ajbrock/SMASH) |
+| [SMASH: One-Shot Model Architecture Search through HyperNetworks](https://arxiv.org/pdf/1708.05344.pdf) | ICLR2018 | - |G | [github](https://github.com/ajbrock/SMASH) |
 | [Neural Architecture Search with Bayesian Optimisation and Optimal Transport](https://arxiv.org/pdf/1802.07191.pdf) | NeurIPS2018 |-| Bayesian | [github](https://github.com/kirthevasank/nasbot) |
 | [Designing Neural Network Architectures using Reinforcement Learning](https://openreview.net/pdf?id=S1c2cvqee) | ICLR2017 | - |RL | [github](https://github.com/bowenbaker/metaqnn) |
