@@ -11,21 +11,21 @@ Neural Architecture Search (NAS)  papers with code
 | [When NAS Meets Robustness: In Search of Robust Architectures against Adversarial Attacks](https://arxiv.org/abs/1911.10695) | CVPR2020 |CNN| Gradient | [PyTorch](https://github.com/gmh14/RobNets) |
 | [FedNAS: Federated Deep Learning via Neural Architecture Search](https://chaoyanghe.com/publications/FedNAS-CVPR2020-NAS.pdf) | CVPRW2020 |CNN| Gradient | [PyTorch]( https://github.com/chaoyanghe/FedNAS) |
 | [Block-wisely Supervised Neural Architecture Search with Knowledge Distillation](https://www.xiaojun.ai/papers/CVPR2020_04676.pdf) | CVPR2020 |CNN| Gradient | [Github](https://github.com/changlin31/DNA) |
-| [Overcoming Multi-Model Forgetting in One-Shot NAS with Diversity Maximization](https://www.xiaojun.ai/papers/cvpr-2020-zhang.pdf) | CVPR | G | [Github](https://github.com/MiaoZhang0525/NSAS_FOR_CVPR) |
-| [Densely Connected Search Space for More Flexible Neural Architecture Search](https://arxiv.org/abs/1906.09607) | CVPR |-| Gradient | [Github](https://github.com/JaminFong/DenseNAS) |
+| [Overcoming Multi-Model Forgetting in One-Shot NAS with Diversity Maximization](https://www.xiaojun.ai/papers/cvpr-2020-zhang.pdf) | CVPR |-| G | [PyTorch](https://github.com/MiaoZhang0525/NSAS_FOR_CVPR) |
+| [Densely Connected Search Space for More Flexible Neural Architecture Search](https://arxiv.org/abs/1906.09607) | CVPR2020 |DenseNet| Gradient | [PyTorch](https://github.com/JaminFong/DenseNAS) |
 | [EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/abs/1911.09070) | CVPR2020 | CNN| RL | [Tensorflow](https://github.com/google/automl/tree/master/efficientdet) |
-| [NAS-BENCH-201: Extending the Scope of Reproducible Neural Architecture Search](https://openreview.net/forum?id=HJxyZkBKDr) | ICLR | - | [Github](https://github.com/D-X-Y/AutoDL-Projects) |
-| [Understanding Architectures Learnt by Cell-based Neural Architecture Search](https://openreview.net/pdf?id=H1gDNyrKDS) | ICLR | G | [GitHub](https://github.com/automl/RobustDARTS) |
-| [AtomNAS: Fine-Grained End-to-End Neural Architecture Search](https://openreview.net/forum?id=BylQSxHFwr) | ICLR2020 | | [GitHub](https://github.com/meijieru/AtomNAS) |
-| [Fast Neural Network Adaptation via Parameter Remapping and Architecture Search](https://openreview.net/forum?id=rklTmyBKPH) | ICLR2020 | - | [GitHub](https://github.com/JaminFong/FNA) |
-| [Once for All: Train One Network and Specialize it for Efficient Deployment](https://openreview.net/forum?id=HylxE1HKwS) | ICLR2020 | Gradient | [GitHub](https://github.com/mit-han-lab/once-for-all) |
-| PC-DARTS: Partial Channel Connections for Memory-Efficient Architecture Search | ICLR | G | [GitHub](https://github.com/yuhuixu1993/PC-DARTS) |
-| [NAS evaluation is frustratingly hard](https://arxiv.org/abs/1912.12522) | ICLR | - | [GitHub](https://github.com/antoyang/NAS-Benchmark) |
-| [FasterSeg: Searching for Faster Real-time Semantic Segmentation](https://openreview.net/pdf?id=BJgqQ6NYvB) | ICLR | G | [GitHub](https://github.com/TAMU-VITA/FasterSeg) |
+| [NAS-BENCH-201: Extending the Scope of Reproducible Neural Architecture Search](https://openreview.net/forum?id=HJxyZkBKDr) | ICLR2020 | - | [PyTorch](https://github.com/D-X-Y/AutoDL-Projects) |
+| [Understanding Architectures Learnt by Cell-based Neural Architecture Search](https://openreview.net/pdf?id=H1gDNyrKDS) | ICLR2020 | Gradient | [PyTorch](https://github.com/automl/RobustDARTS) |
+| [AtomNAS: Fine-Grained End-to-End Neural Architecture Search](https://openreview.net/forum?id=BylQSxHFwr) | ICLR2020 | | [PyTorch](https://github.com/meijieru/AtomNAS) |
+| [Fast Neural Network Adaptation via Parameter Remapping and Architecture Search](https://openreview.net/forum?id=rklTmyBKPH) | ICLR2020 | - | [PyTorch](https://github.com/JaminFong/FNA) |
+| [Once for All: Train One Network and Specialize it for Efficient Deployment](https://openreview.net/forum?id=HylxE1HKwS) | ICLR2020 |-| Gradient | [GitHub](https://github.com/mit-han-lab/once-for-all) |
+| PC-DARTS: Partial Channel Connections for Memory-Efficient Architecture Search | ICLR |-| Gradient | [PyTorch](https://github.com/yuhuixu1993/PC-DARTS) |
+| [NAS evaluation is frustratingly hard](https://arxiv.org/abs/1912.12522) | ICLR2020 | - | [GitHub](https://github.com/antoyang/NAS-Benchmark) |
+| [FasterSeg: Searching for Faster Real-time Semantic Segmentation](https://openreview.net/pdf?id=BJgqQ6NYvB) | ICLR2020 |-| G | [Pytorch](https://github.com/TAMU-VITA/FasterSeg) |
 | [Continual and Multi-Task Architecture Search](https://www.aclweb.org/anthology/P19-1185.pdf) | ACL2019 |-|RL | [PyTorch](https://github.com/ramakanth-pasunuru/CAS-MAS) |
 | Searching for MobileNetV3 | ICCV | MobileNet| EA | [PyTorch](https://github.com/kuan-wang/pytorch-mobilenet-v3) |
 | [One-Shot Neural Architecture Search via Self-Evaluated Template Network](https://arxiv.org/abs/1910.05733) | ICCV2019 |-| Gradient | [PyTorch](https://github.com/D-X-Y/NAS-Projects) |
-| [Evolving Space-Time Neural Architectures for Videos](https://arxiv.org/abs/1811.10636) | ICCV2019 |-| EA | [GitHub](https://sites.google.com/view/evanet-video) |
+| [Evolving Space-Time Neural Architectures for Videos](https://arxiv.org/abs/1811.10636) | ICCV2019 |-| EA | [Tensorflow](https://sites.google.com/view/evanet-video) |
 | [AutoGAN: Neural Architecture Search for Generative Adversarial Networks](https://arxiv.org/pdf/1908.03835.pdf) | ICCV2019 |-| RL | [github](https://github.com/TAMU-VITA/AutoGAN) |
 | [Discovering Neural Wirings](https://arxiv.org/pdf/1906.00586.pdf) | NeurIPS2019 |- | Gradient | [Github](https://github.com/allenai/dnw) |
 | [Towards modular and programmable architecture search](https://arxiv.org/abs/1909.13404) | NeurIPS2019 |- | [Other](https://github.com/D-X-Y/Awesome-NAS/issues/10) | [Github](https://github.com/negrinho/deep_architect) |
