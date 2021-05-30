@@ -4,6 +4,8 @@ Neural Architecture Search (NAS)  papers with code
 
 | Paper Title |    Where       |         Architecture   |      Strategy           |        Code            | 
 |:------------|:--------------:|:----------------------:|:-----------------------:|:----------------------:|
+| [RETHINKING ARCHITECTURE SELECTION IN DIFFERENTIABLE NAS](https://openreview.net/pdf?id=PKubaeJkw3) | ICLR 2021 | CNN | Gradient | [PyTorch](https://github.com/ruocwang/darts-pt)|
+| [MixSearch: Searching for Domain Generalized Medical Image Segmentation Architectures ](https://arxiv.org/pdf/2102.13280v1.pdf) | TMI(?)2021 | CNN | Gradient | [PyTorch](https://github.com/lswzjuer/NAS-WDAN)|
 | [Neural Architecture Search for Lightweight Non-Local Networks ](https://arxiv.org/abs/2004.01961) | CVPR2020 | Mobile | Gradient | [PyTorch](https://github.com/meijieru/yet_another_mobilenet_series)|
 | [MTL-NAS: Task-Agnostic Neural Architecture Search towards General-Purpose Multi-Task Learning ](https://arxiv.org/abs/2003.14058) | CVPR2020 | - | Gradient | [PyTorch](https://github.com/bhpfelix/MTLNAS)|
 | [Learning GCN for Skeleton-based Human Action Recognition by Neural Searching](https://arxiv.org/abs/1911.04131) | AAAI2020 | GCN | EA | [PyTorch](https://github.com/xiaoiker/GCN-NAS)|
