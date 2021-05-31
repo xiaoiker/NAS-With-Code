@@ -5,6 +5,15 @@ Neural Architecture Search (NAS)  papers with code
 | Paper Title |    Where       |         Architecture   |      Strategy           |        Code            | 
 |:------------|:--------------:|:----------------------:|:-----------------------:|:----------------------:|
 | [RETHINKING ARCHITECTURE SELECTION IN DIFFERENTIABLE NAS](https://openreview.net/pdf?id=PKubaeJkw3) | ICLR 2021 | CNN | Gradient | [PyTorch](https://github.com/ruocwang/darts-pt)|
+| [Geometry-Aware Gradient Algorithms for Neural Architecture Search](https://openreview.net/forum?id=MuSYkd1hxRP) | ICLR 2021 | CNN | Gradient | [PyTorch](https://github.com/liamcli/gaea_release)|
+| [Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets](https://openreview.net/forum?id=rkQuFUmUOg3) | ICLR 2021 | CNN | Gradient | [PyTorch](https://github.com/HayeonLee/MetaD2A)|
+| [IN SEARCH OF LOST DOMAIN GENERALIZATION](https://openreview.net/forum?id=lQdXeXDoWtI) | ICLR 2021 | Domain | Not exact NAS | [PyTorch](https://github.com/facebookresearch/DomainBed)| 
+| [SEDONA: Search for Decoupled Neural Networks toward Greedy Block-wise Learning](https://openreview.net/forum?id=XLfdzwNKzch) | ICLR 2021 | CNN |  Gradient | [PyTorch](https://github.com/mjpyeon/sedona)|
+| [Neural Architecture Search on ImageNet in Four GPU Hours: A Theoretically Inspired Perspective](https://openreview.net/forum?id=Cnon5ezMHtu) | ICLR 2021 | CNN |  training-free | [PyTorch](https://github.com/VITA-Group/TENAS)|
+| [Interpretable Neural Architecture Search using Bayesian Optimisation with Weisfeiler-Lehman Kernel (NAS-BOWL)](https://openreview.net/pdf?id=j9Rv7qdXjd) | ICLR 2021 | CNN | Bayesian | [PyTorch](https://github.com/xingchenwan/nasbowl)|
+| [DrNAS: Dirichlet Neural Architecture Search](https://openreview.net/forum?id=9FWas6YbmB3) | ICLR 2021 | CNN | Gradient | [PyTorch](https://github.com/xiangning-chen/DrNAS)|
+| [Zero-Cost Proxies for Lightweight NAS](https://openreview.net/forum?id=0cmMMy8J5q) | ICLR 2021 | CNN | Gradient | [PyTorch](https://github.com/SamsungLabs/zero-cost-nas)| 
+| [Auto Seg-Loss: Searching Metric Surrogates for Semantic Segmentation](https://openreview.net/forum?id=MJAqnaC2vO1) | ICLR 2021 | Loss |  Gradient | [PyTorch](https://github.com/fundamentalvision/Auto-Seg-Loss)|
 | [MixSearch: Searching for Domain Generalized Medical Image Segmentation Architectures ](https://arxiv.org/pdf/2102.13280v1.pdf) | TMI(?)2021 | CNN | Gradient | [PyTorch](https://github.com/lswzjuer/NAS-WDAN)|
 | [Neural Architecture Search for Lightweight Non-Local Networks ](https://arxiv.org/abs/2004.01961) | CVPR2020 | Mobile | Gradient | [PyTorch](https://github.com/meijieru/yet_another_mobilenet_series)|
 | [MTL-NAS: Task-Agnostic Neural Architecture Search towards General-Purpose Multi-Task Learning ](https://arxiv.org/abs/2003.14058) | CVPR2020 | - | Gradient | [PyTorch](https://github.com/bhpfelix/MTLNAS)|
