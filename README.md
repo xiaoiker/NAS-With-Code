@@ -4,6 +4,10 @@ Neural Architecture Search (NAS)  papers with code
 
 | Paper Title |    Where       |         Architecture   |      Strategy           |        Code            | 
 |:------------|:--------------:|:----------------------:|:-----------------------:|:----------------------:|
+| [LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search](https://arxiv.org/pdf/2104.05309v1.pdf) | CVPR 2021 | CNN | Gradient | [PyTorch](https://github.com/researchmm/LightTrack)|
+| [OPANAS: One-Shot Path Aggregation Network Architecture Search for Object Detection](https://arxiv.org/pdf/2103.04507v3.pdf) | CVPR 2021 | CNN | EA | [PyTorch](https://github.com/VDIGPKU/OPANAS)|
+| [Inception Convolution With Efficient Dilation Search](https://arxiv.org/pdf/2012.13587v2.pdf) | CVPR 2021 | Dilation | No exact NAS | [PyTorch](https://github.com/yifan123/IC-Conv)|
+| [One-Shot Neural Ensemble Architecture Search by Diversity-Guided Search Space Shrinking](https://arxiv.org/pdf/2010.00969v3.pdf) | CVPR 2021 | CNN | Gradient | [PyTorch](https://github.com/researchmm/NEAS)|
 | [DOTS: Decoupling Operation and Topology in Differentiable Architecture Search](https://arxiv.org/pdf/2010.00969v3.pdf) | CVPR 2021 | CNN | Gradient | [PyTorch](https://github.com/guyuchao/DOTS)|
 | [RETHINKING ARCHITECTURE SELECTION IN DIFFERENTIABLE NAS](https://openreview.net/pdf?id=PKubaeJkw3) | ICLR 2021 | CNN | Gradient | [PyTorch](https://github.com/ruocwang/darts-pt)|
 | [Geometry-Aware Gradient Algorithms for Neural Architecture Search](https://openreview.net/forum?id=MuSYkd1hxRP) | ICLR 2021 | CNN | Gradient | [PyTorch](https://github.com/liamcli/gaea_release)|
