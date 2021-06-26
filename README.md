@@ -4,6 +4,9 @@ Neural Architecture Search (NAS)  papers with code
 
 | Paper Title |    Where       |         Architecture   |      Strategy           |        Code            | 
 |:------------|:--------------:|:----------------------:|:-----------------------:|:----------------------:|
+| [Global2Local: Efficient Structure Search for Video Action Segmentation](https://arxiv.org/pdf/2101.00910v2.pdf) | CVPR 2021 | CNN | Gradient | [PyTorch](https://github.com/ShangHua-Gao/G2L-search)|
+| [HR-NAS: Searching Efficient High-Resolution Neural Architectures With Lightweight Transformers](https://arxiv.org/pdf/2106.06560v1.pdf) | CVPR 2021 | CNN | Gradient | [PyTorch](https://github.com/dingmyu/HR-NAS)|
+| [ViPNAS: Efficient Video Pose Estimation via Neural Architecture Search](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_ViPNAS_Efficient_Video_Pose_Estimation_via_Neural_Architecture_Search_CVPR_2021_paper.pdf) | CVPR 2021 | CNN | Gradient | [PyTorch](https://github.com/luminxu/ViPNAS)|
 | [LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search](https://arxiv.org/pdf/2104.05309v1.pdf) | CVPR 2021 | CNN | Gradient | [PyTorch](https://github.com/researchmm/LightTrack)|
 | [OPANAS: One-Shot Path Aggregation Network Architecture Search for Object Detection](https://arxiv.org/pdf/2103.04507v3.pdf) | CVPR 2021 | CNN | EA | [PyTorch](https://github.com/VDIGPKU/OPANAS)|
 | [Inception Convolution With Efficient Dilation Search](https://arxiv.org/pdf/2012.13587v2.pdf) | CVPR 2021 | Dilation | No exact NAS | [PyTorch](https://github.com/yifan123/IC-Conv)|
